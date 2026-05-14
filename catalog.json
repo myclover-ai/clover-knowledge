@@ -1,0 +1,18 @@
+[
+  {
+    "id": "legal-foundations",
+    "name": "Legal Foundations",
+    "description": "Curated reference corpus of foundational legal materials covering statutes, regulations, and constitutional documents. General background context only — not jurisdiction-specific guidance.",
+    "area": "Law",
+    "size": "2.1 GB",
+    "documents": 3394,
+    "source": "catalog",
+    "sha256": "4058705687c15599af67129d27fe865638f1c430e212c9b69322544d343696cd",
+    "dim": 256,
+    "version": "2",
+    "vector_dtype": "float16",
+    "archive_url": "https://github.com/myclover-ai/clover-knowledge/releases/download/v1.0/legal-foundations.tar.zst",
+    "disclaimer": "For educational reference only. This is not legal advice and does not establish an attorney-client relationship. Consult a licensed attorney for guidance on specific situations.",
+    "crypto_version": 1
+  }
+]
