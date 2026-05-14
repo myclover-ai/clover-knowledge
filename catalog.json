@@ -7,7 +7,7 @@
     "size": "1.8 GB",
     "documents": 3394,
     "source": "catalog",
-    "sha256": "107f15b5b6ce1a6d5ddb58d359f1376b2a55bd9d3c11370476ccfe9737026b8e",
+    "sha256": "f4b17628df22d617ad010389b772906abeb9627cd7caff75c3c6426d801c45a6",
     "dim": 256,
     "version": "2",
     "vector_dtype": "float16",
