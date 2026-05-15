@@ -9,7 +9,7 @@
     "source": "catalog",
     "sha256": "6d30796bf7a795769cd48fdf3da583f7df33ba3c257d94b8341d5806c6f30753",
     "dim": 256,
-    "version": "2",
+    "version": "3",
     "vector_dtype": "float16",
     "archive_url": "https://github.com/myclover-ai/clover-knowledge/releases/download/v1.0/legal-foundations.tar.zst",
     "disclaimer": "For educational reference only. This is not legal advice and does not establish an attorney-client relationship. Consult a licensed attorney for guidance on specific situations.",
