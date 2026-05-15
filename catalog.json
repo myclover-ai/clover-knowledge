@@ -1,18 +1,25 @@
-[
-  {
-    "id": "legal-foundations",
-    "name": "Legal Foundations",
-    "description": "Curated reference corpus of foundational legal materials covering statutes, regulations, and constitutional documents. General background context only — not jurisdiction-specific guidance.",
-    "area": "Law",
-    "size": "1.8 GB",
-    "documents": 3394,
-    "source": "catalog",
-    "sha256": "653b6b920751b2bfc5babcffaaf9caadfcd6983f7e7ef39f793fdedb1db57d57",
-    "dim": 256,
-    "version": "2",
-    "vector_dtype": "float16",
-    "archive_url": "https://github.com/myclover-ai/clover-knowledge/releases/download/v1.0/legal-foundations.tar.zst",
-    "disclaimer": "For educational reference only. This is not legal advice and does not establish an attorney-client relationship. Consult a licensed attorney for guidance on specific situations.",
-    "schema_version": 1
-  }
-]
+{
+  "catalog_format_version": 1,
+  "generated_at": "2026-05-15T19:46:08.436Z",
+  "entries": [
+    {
+      "id": "legal-foundations",
+      "name": "Legal Foundations",
+      "description": "Curated reference corpus of foundational legal materials covering statutes, regulations, and constitutional documents. General background context only — not jurisdiction-specific guidance.",
+      "area": "Law",
+      "size": "1.8 GB",
+      "documents": 3394,
+      "source": "catalog",
+      "sha256": "f3ab7d0d6ab76d2ba2f0af0097df257e51248926311a5997c9d8e1e1ced63fb1",
+      "dim": 256,
+      "version": "2",
+      "vector_dtype": "float16",
+      "archive_url": "https://github.com/myclover-ai/clover-knowledge/releases/download/v1.0/legal-foundations.tar.zst",
+      "model_fingerprint": "66c3c4c55b9030a9",
+      "disclaimer": "For educational reference only. This is not legal advice and does not establish an attorney-client relationship. Consult a licensed attorney for guidance on specific situations.",
+      "schema_version": 1,
+      "build_chunker_version": 1,
+      "pack_format_version": 1
+    }
+  ]
+}
