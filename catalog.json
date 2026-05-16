@@ -1,6 +1,6 @@
 {
   "catalog_format_version": 1,
-  "generated_at": "2026-05-15T19:46:08.436Z",
+  "generated_at": "2026-05-16T13:38:58.153Z",
   "entries": [
     {
       "id": "legal-foundations",
@@ -10,16 +10,14 @@
       "size": "1.8 GB",
       "documents": 3394,
       "source": "catalog",
-      "sha256": "f3ab7d0d6ab76d2ba2f0af0097df257e51248926311a5997c9d8e1e1ced63fb1",
+      "sha256": "b4e9859b3e203bc5923ab1889fa81d02e72a5ee79d36236aa3b0801b4170e876",
       "dim": 256,
-      "version": "2",
+      "version": "1",
       "vector_dtype": "float16",
       "archive_url": "https://github.com/myclover-ai/clover-knowledge/releases/download/v1.0/legal-foundations.tar.zst",
       "model_fingerprint": "66c3c4c55b9030a9",
       "disclaimer": "For educational reference only. This is not legal advice and does not establish an attorney-client relationship. Consult a licensed attorney for guidance on specific situations.",
-      "schema_version": 1,
-      "build_chunker_version": 1,
-      "pack_format_version": 1
+      "catalog_schema_version": 0
     }
   ]
 }
