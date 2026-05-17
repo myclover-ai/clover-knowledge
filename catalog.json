@@ -1,7 +1,24 @@
 {
   "catalog_format_version": 1,
-  "generated_at": "2026-05-16T13:38:58.153Z",
+  "generated_at": "2026-05-17T17:27:50.022Z",
   "entries": [
+    {
+      "id": "medical-reference",
+      "name": "Medical Reference",
+      "description": "Clinical references, drug information, and anatomy summaries from MedlinePlus and NIH educational materials.",
+      "area": "Medicine",
+      "size": "6.3 MB",
+      "documents": 1016,
+      "source": "catalog",
+      "sha256": "8da345550ecfd472a84ede4ff259792e42c24adff5be14f5fa8243a312e78136",
+      "dim": 256,
+      "version": "1",
+      "vector_dtype": "float16",
+      "archive_url": "https://github.com/myclover-ai/clover-knowledge/releases/download/v1.0/medical-reference.tar.zst",
+      "model_fingerprint": "66c3c4c55b9030a9",
+      "disclaimer": "For educational reference only. This is not medical advice and is not a substitute for professional diagnosis, treatment, or consultation with a qualified healthcare provider.",
+      "catalog_schema_version": 0
+    },
     {
       "id": "legal-foundations",
       "name": "Legal Foundations",
