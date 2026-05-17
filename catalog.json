@@ -1,6 +1,6 @@
 {
   "catalog_format_version": 1,
-  "generated_at": "2026-05-17T20:25:02.224Z",
+  "generated_at": "2026-05-17T23:23:39.815Z",
   "entries": [
     {
       "id": "philosophy-classics-mini",
@@ -9,11 +9,12 @@
       "area": "Humanities",
       "size": "9.1 MB",
       "documents": 10,
-      "source": "bundled",
+      "source": "catalog",
       "sha256": "372e02a06ba3194b1e4311eebef08b841b314be2fabe70982642adbf2725dafd",
       "dim": 256,
       "version": "1",
       "vector_dtype": "float16",
+      "archive_url": "https://github.com/myclover-ai/clover-knowledge/releases/download/v1.0/philosophy-classics-mini.tar.zst",
       "model_fingerprint": "66c3c4c55b9030a9",
       "catalog_schema_version": 0
     },
