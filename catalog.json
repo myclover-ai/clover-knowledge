@@ -17,7 +17,7 @@
       "archive_url": "https://github.com/myclover-ai/clover-knowledge/releases/download/v1.0/legal-foundations.tar.zst",
       "model_fingerprint": "66c3c4c55b9030a9",
       "disclaimer": "For educational reference only. This is not legal advice and does not establish an attorney-client relationship. Consult a licensed attorney for guidance on specific situations.",
-      "catalog_schema_version": 99
+      "catalog_schema_version": 0
     }
   ]
 }
